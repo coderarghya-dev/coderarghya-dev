@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=1,00c6ff,0072ff,1e3c72&height=220&section=header&text=Hi%20there,%20I'm%20Arghya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast%20%7C%20AI%2FML%20Explorer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Arghya%20Mandal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing SVG -->
   <a href="#-about-me">
@@ -243,7 +243,7 @@ Let's discuss development, collaborate on projects, or talk tech!
 <br/><br/>
 
 <!-- Footer Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=1,1e3c72,0072ff,00c6ff&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="Footer" />
 
 <p align="center">
   <i>⭐️ Star any repository if you find it helpful! Thanks for stopping by! 🚀</i>
