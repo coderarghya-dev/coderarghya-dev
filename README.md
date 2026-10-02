@@ -4,24 +4,32 @@
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Arghya%20Mandal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <h1 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="38" height="38" />
+    Hi there, I'm Arghya Mandal
+  </h1>
 
-  <!-- Dynamic Typing SVG -->
+  <p align="center">
+    <strong>⚡ Full-Stack Developer | Python & React Specialist | Smart Web Systems</strong>
+  </p>
+
+  <!-- Dynamic Typing Animation Banner -->
   <a href="#-about-me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;Python+%26+Flask+Architecture;Modern+React+%26+JavaScript+UIs;AI%2FML+%26+Face+Recognition+Systems;Building+Impactful+Real-World+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&background=0D111700&center=true&vCenter=true&width=700&height=55&lines=Full-Stack+Web+Developer;Building+Smart+Attendance+Systems;Python+%26+Flask+Backend+Architect;Modern+React+%26+JavaScript+Frontend;AI%2FML+%26+Face+Recognition+Explorer" alt="Typing SVG Banner" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Profile Badges / Visitors Counter -->
+  <!-- Profile Badges & Visitors Counter -->
   <p align="center">
     <a href="https://github.com/coderarghya-dev">
       <img src="https://komarev.com/ghpvc/?username=coderarghya-dev&label=Profile%20Views&color=0072ff&style=flat-square" alt="Profile Views" />
     </a>
+    &nbsp;
     <a href="https://github.com/coderarghya-dev?tab=repositories">
       <img src="https://img.shields.io/github/followers/coderarghya-dev?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" />
     </a>
+    &nbsp;
     <a href="https://github.com/coderarghya-dev">
       <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square" alt="Status" />
     </a>
@@ -240,14 +248,13 @@ Let's discuss development, collaborate on projects, or talk tech!
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Footer Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="Footer" />
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(0, 198, 255, 0), rgba(0, 114, 255, 0.75), rgba(0, 198, 255, 0));" />
 
-<p align="center">
-  <i>⭐️ Star any repository if you find it helpful! Thanks for stopping by! 🚀</i>
-</p>
+  <p align="center">
+    <i>⭐️ Star any repository if you find it helpful! Thanks for stopping by! 🚀</i>
+  </p>
 
 </div>
 
