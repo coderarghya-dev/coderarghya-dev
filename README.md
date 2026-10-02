@@ -1,26 +1,46 @@
 <!-- =========================================================
-     GitHub Profile README — Arghya Mandal
+     GitHub Profile README — Arghya Mandal (@coderarghya-dev)
      ========================================================= -->
 
 <div align="center">
 
-# Hi 👋, I'm Arghya Mandal
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=1,00c6ff,0072ff,1e3c72&height=220&section=header&text=Hi%20there,%20I'm%20Arghya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast%20%7C%20AI%2FML%20Explorer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-### Full-Stack Developer | Python & React Enthusiast | Building Smart Web Applications
+  <!-- Dynamic Typing SVG -->
+  <a href="#-about-me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;Python+%26+Flask+Architecture;Modern+React+%26+JavaScript+UIs;AI%2FML+%26+Face+Recognition+Systems;Building+Impactful+Real-World+Solutions" alt="Typing SVG" />
+  </a>
 
-<p>
-  I enjoy building practical, real-world software that combines
-  <strong>web development, intelligent verification, and modern user experiences.</strong>
-</p>
+  <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Development;Python+%26+Flask;React+%26+JavaScript;AI%2FML+%26+Face+Recognition;Building+Useful+Real-World+Applications"
-  alt="Typing SVG"
-/>
+  <!-- Profile Badges / Visitors Counter -->
+  <p align="center">
+    <a href="https://github.com/coderarghya-dev">
+      <img src="https://komarev.com/ghpvc/?username=coderarghya-dev&label=Profile%20Views&color=0072ff&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/coderarghya-dev?tab=repositories">
+      <img src="https://img.shields.io/github/followers/coderarghya-dev?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" />
+    </a>
+    <a href="https://github.com/coderarghya-dev">
+      <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square" alt="Status" />
+    </a>
+  </p>
 
-<br/>
-
-
+  <!-- Social Media & Quick Reach Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/arghya-mandal-322231392" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Arghya%20Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:arghyamandal765@gmail.com">
+      <img src="https://img.shields.io/badge/Email-arghyamandal765%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/coderarghya-dev" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-coderarghya--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
@@ -28,161 +48,206 @@
 
 ## 👨‍💻 About Me
 
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
 I'm a developer passionate about turning ideas into **useful, real-world applications**.
 
-My interests span both frontend and backend development, with a focus on building complete systems using technologies such as **Python, Flask, React, JavaScript, and SQLite**.
+My focus spans both frontend and backend systems, with expertise in **Python, Flask, React, JavaScript, and SQLite**. I'm especially driven by projects that integrate **AI/ML, intelligent verification, face recognition, geolocation/geofencing, and rock-solid authentication**.
 
-I'm especially interested in projects where software solves practical problems through technologies like **AI/ML, face recognition, geolocation, authentication, and intelligent verification systems**.
+- 💻 **Full-Stack Development:** Building end-to-end scalable web applications
+- 🐍 **Backend Engineering:** Creating robust RESTful APIs with Python & Flask
+- ⚛️ **Frontend Crafting:** Developing responsive, dynamic interfaces with React & Modern JavaScript
+- 🤖 **AI & Computer Vision:** Exploring Face Recognition & Machine Learning integration
+- 🗄️ **Data Management:** Working with relational databases like SQLite & SQL
+- 🌍 **Mission:** Solving tangible problems with clean, maintainable code
 
-- 💻 Interested in **Full-Stack Web Development**
-- 🐍 Building backend applications with **Python & Flask**
-- ⚛️ Creating modern interfaces with **React & JavaScript**
-- 🤖 Exploring **AI/ML and Face Recognition**
-- 🗄️ Working with databases such as **SQLite**
-- 🌍 Interested in building technology that solves real-world problems
-- 🚀 Continuously improving my development and problem-solving skills
-
----
-
-## 🚀 Currently Working On
-
-### 🎓 Smart Attend X
-
-I'm currently developing **Smart Attend X**, a smart attendance management system designed to make classroom attendance more secure, efficient, and intelligent.
-
-The project combines **full-stack web development, face verification, geolocation/geofencing, attendance validation, duplicate prevention, and multi-class attendance management** into one system.
+  </td>
+  <td width="40%" align="center" valign="middle">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding Animation" style="border-radius: 12px;" />
+    <br/>
+    <em>"Turning ideas into working applications — one commit at a time."</em>
+  </td>
+ </tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
-
-- ⚛️ React
-- 🐍 Flask
-- 🔌 REST APIs
-- 🌐 Full-Stack Development
-- 🤖 AI / Machine Learning
-- 👤 Face Recognition
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Languages & Frontend
+  <!-- Interactive Skill Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,sqlite,git,github,vscode,postman,linux&perline=6" alt="Skill Icons" />
+  </a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br/><br/>
 
-### Backend & Database
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-### Development Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <!-- Categorized Badges -->
+  <table>
+    <tr>
+      <td align="center" width="33%"><strong>🌐 Frontend</strong></td>
+      <td align="center" width="33%"><strong>⚙️ Backend & DB</strong></td>
+      <td align="center" width="33%"><strong>🛠️ Tools & DevOps</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /><br/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-# 🌟 Featured Project
-
-## 🎓 Smart Attend X
-
-> **Smart Attendance Management System**
-
-**Smart Attend X** is a full-stack attendance management system designed to improve the reliability and security of classroom attendance.
-
-It combines **Flask, React, SQLite, face recognition, geolocation/geofencing, attendance verification, duplicate attendance prevention, and multi-class attendance management** to create a more intelligent attendance workflow.
-
-### ⚙️ Core Technologies
-
-`Python` • `Flask` • `React` • `JavaScript` • `SQLite` • `Face Recognition` • `Geolocation`
-
-### ✨ Key Features
-
-- 👤 Face-based attendance verification
-- 📍 Geolocation and geofencing validation
-- ✅ Attendance verification workflow
-- 🛡️ Duplicate attendance prevention
-- 🏫 Multi-class attendance management
-- 🗄️ SQLite-powered attendance storage
-- ⚛️ React-based frontend interface
-- 🐍 Flask-powered backend
-
-### 🔗 Project Links
-
-- **Repository:** [View Repository](YOUR_SMART_ATTEND_X_REPOSITORY_LINK)
-- **Live Demo:** [View Live Demo](YOUR_LIVE_DEMO_LINK)
-- **Screenshots:** [View Screenshots](YOUR_SCREENSHOTS_LINK)
-
-> 🚧 **Development Status:** Smart Attend X is actively being developed and improved.
-
----
-
-## 💻 Developer Mode
+## 🌟 Featured Project
 
 <div align="center">
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="450"
-  alt="Developer Coding Animation"
-/>
+### 🎓 **Smart Attend X**
+*Next-Gen Intelligent Attendance Management System*
+
+</div>
+
+> **Smart Attend X** is a full-stack, AI-integrated attendance platform designed to eliminate proxy attendance and automate classroom management with pinpoint accuracy.
+
+<div align="center">
+  <code>Python</code> • <code>Flask</code> • <code>React</code> • <code>JavaScript</code> • <code>SQLite</code> • <code>Face Recognition</code> • <code>Geolocation / Geofencing</code>
+</div>
 
 <br/>
 
-<i>Turning ideas into working applications — one feature, one bug fix, and one commit at a time.</i>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>✨ Key Capabilities</h4>
+      <ul>
+        <li>👤 <strong>Face Recognition:</strong> Real-time biometrics validation</li>
+        <li>📍 <strong>Geofencing Validation:</strong> Restricts check-in to classroom boundaries</li>
+        <li>🛡️ <strong>Anti-Proxy Protection:</strong> Intelligent duplicate prevention algorithms</li>
+        <li>🏫 <strong>Multi-Class Management:</strong> Dynamic scheduling & batch rosters</li>
+        <li>📊 <strong>Analytics Dashboard:</strong> Automated reporting & insights</li>
+        <li>⚡ <strong>Full-Stack Architecture:</strong> React UI + Flask RESTful Backend</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <h4>🔗 Quick Links & Status</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge&logo=git" alt="Active Development" />
+      </p>
+      <p>
+        <a href="YOUR_SMART_ATTEND_X_REPOSITORY_LINK">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge&logo=github" alt="Repository" />
+        </a>
+        <br/><br/>
+        <a href="YOUR_LIVE_DEMO_LINK">
+          <img src="https://img.shields.io/badge/Live_Demo-Explore-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Streak
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=coderarghya-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderarghya-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderarghya-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Exploring & Leveling Up
+
+```text
+├── ⚛️ Advanced React Patterns & State Management
+├── 🐍 Scalable Backend Microservices with Flask & FastAPI
+├── 🤖 Deep Learning & Computer Vision (OpenCV & Face Recognition)
+├── 🔒 Secure Token Authentication (JWT, OAuth2)
+└── ☁️ Cloud Deployments & CI/CD Pipelines
+```
+
+---
+
+## 💭 Coding Philosophy & Daily Quote
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arghya-mandal-322231392">
-  <img src="https://img.shields.io/badge/LinkedIn-Arghya%20Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+> *"Build technology that solves real problems, keep learning, and make every project better than the last."*
 
-<a href="mailto:arghyamandal765@gmail.com">
-  <img src="https://img.shields.io/badge/Email-arghyamandal765%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br/>
 
 <a href="https://github.com/coderarghya-dev">
-  <img src="https://img.shields.io/badge/GitHub-coderarghya--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </a>
 
 </div>
 
 ---
 
-## 💭 Coding Philosophy
+## 🤝 Let's Connect!
 
 <div align="center">
 
-> **"Build technology that solves real problems, keep learning, and make every project better than the last."**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories, check out my projects, and connect with me.**
+Let's discuss development, collaborate on projects, or talk tech!
 
 <br/>
 
-<i>Always learning. Always building. 🚀</i>
+<a href="https://www.linkedin.com/in/arghya-mandal-322231392" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:arghyamandal765@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/coderarghya-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<!-- Footer Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=1,1e3c72,0072ff,00c6ff&height=120&section=footer" width="100%" alt="Footer" />
+
+<p align="center">
+  <i>⭐️ Star any repository if you find it helpful! Thanks for stopping by! 🚀</i>
+</p>
 
 </div>
+
